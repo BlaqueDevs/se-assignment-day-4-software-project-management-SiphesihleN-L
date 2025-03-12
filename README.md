@@ -75,6 +75,7 @@ Protects your company’s reputation: Businesses need to ensure that their produ
 Ensures security and compliance: Software quality assurance helps organizations ensure that their application is efficient, secure, and trustworthy. Most importantly, it helps them meet regulatory and industry-specific compliance requirements, such as those related to security and data privacy.
 Ensures customer satisfaction: Your software application has to fulfill all the needs to satisfy the customers. It has to work smoothly without any malfunctions. With software quality assurance processes in place, you can ensure that your product delivers everything that your audience expects.
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+The WBS organizes the project into manageable components by breaking the scope into detailed, smaller parts. Clearly defined components make assigning responsibilities, estimating costs, scheduling timelines, and monitoring project progress easier
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
