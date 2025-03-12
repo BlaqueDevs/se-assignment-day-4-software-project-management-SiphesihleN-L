@@ -2,9 +2,65 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18438642&assignment_repo_type=AssignmentRepo)
 # SE_DAY4_Software-Project-Management
 ## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
+
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
+To prevent cost overruns, organizations can implement strategies such as conducting thorough risk assessments, establishing effective change management procedures, utilizing accurate project management techniques, and fostering open communication among project stakeholders.
+1. Thorough Project Planning
+2. Know Your Vendors
+3. Keep to Planned Scope
+4. Use a Project Planning Tool
+5. Keep Stakeholders Updated
+6. Monitor Progress
+7. Reassign Resources
+8.  Make a Work Breakdown Structure
+9.  Establish Project Controls
+10. Establish a Change Management Process 
+    
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+What is Waterfall?
+Waterfall is the “old school” way of managing projects. Throughout the life of the project, there are well-defined stages with formalized hand-offs from one to the next. Moreover, all of the requirements for each step is completed before the next begins.
+
+Although there are dates and schedules in a waterfall environment, each stage and project lasts until completion unless the rolling out initiative was specifically designed to be in phases comprised of multiple projects that build on one another.
+
+A healthy waterfall environment doesn’t employ a “throw it over the wall” mindset where stakeholders pass on responsibility to the owner of the next phase. It is, however, primarily a linear process beginning with requirements and terminating in a final release or completion of the project.
+Agile is the new kid on the block, relatively speaking, and prizes rapid iteration, autonomy, and flexibility. It was conceived specifically as a reaction to waterfall’s perceived shortcomings.
+
+In an Agile environment, you are divvying up work into Sprints, which are time-based bursts of activity, typically one-to-four weeks in length. This cadence dictates how much work is completed during a given period.
+
+The goal is to deliver value to the customer or user as quickly and often as possible. Thus larger projects are broken down into smaller pieces so that progress can be made during each Sprint.
+
+Aside from receiving their priorities and use cases from the business, Agile product management teams are self-organizing. They figure out the best way to allocate their resources to meet the requirements of each initiative, consulting with the Product Owner or subject matter experts from lines of business when necessary.
+
+Agile
+ADVANTAGES
+Flexibility to respond to the market and new intelligence
+The implementation team has room for creative problem solving
+Self-organizing teams and resource allocation
+Frequent updates and increased customer value
+Rigid cadence, deadline flexibility
+DISADVANTAGES
+Loose planning can lead to unpredictable finished product and date slippage
+Susceptible to a lack of focus and knee-jerk reactions from Sprint to Sprint
+Relentless pace
+Loose testing requirements may let bugs through
+No opportunities to make changes during a Sprint
+
+Waterfall
+ADVANTAGES
+Minimal scope creep
+A predictable and well-specified final product
+Well-defined roles and responsibilities
+Infrequent releases that can be carefully rolled out and messaged to users and the market
+Precise project plans and firm deadlines
+DISADVANTAGES
+Lack of flexibility after a specification
+Fewer opportunities to course correct
+Too many gaps between innovations reaching the market
+Too long until bugs are discovered since testing doesn’t occur until the large project is complete
+Beaurocratic change management process
+
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
