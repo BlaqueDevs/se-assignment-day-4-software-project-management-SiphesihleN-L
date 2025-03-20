@@ -91,6 +91,8 @@ Motivates Team Members
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+efine the Problem
+This means understanding what the problem is and what it is not. Start by gathering as much information as possible about the issue, including error messages, console logs, and user feedback. Once you have a clear understanding of the problem, you can start to formulate a plan to solve it.17 Mar 2023
 
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 ## 11. What are the main features or functionalities that make your software stand out?
