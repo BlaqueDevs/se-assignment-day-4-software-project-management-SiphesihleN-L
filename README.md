@@ -95,6 +95,11 @@ efine the Problem
 This means understanding what the problem is and what it is not. Start by gathering as much information as possible about the issue, including error messages, console logs, and user feedback. Once you have a clear understanding of the problem, you can start to formulate a plan to solve it.17 Mar 2023
 
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+While a computer program is generally a set of instructions (source, or object code) that perform a specific task, a software system is more or an encompassing concept with many more components such as specification, test results, end-user documentation, maintenance records, etc.
 ## 11. What are the main features or functionalities that make your software stand out?
+Functionality, usability, efficiency, flexibility, reliability, maintainability, portability, and integrity are key characteristics that software engineers should consider throughout the development lifecycle.
 ## 12. What data is available regarding the market size and growth potential for your software?
+he global business software and services market size was estimated at USD 584.03 billion in 2024 and is projected to grow at a CAGR of 12.1% from 2025 to 2030. The market growth is driven by the increasing demand for automation in business processes.
 ## 13. How can understanding market trends inform your software’s positioning and development?
+Guiding product development and improvement: Market positioning requires a deep understanding of customer needs and market gaps. These insights can inform product development, helping startups create products or services that resonate with their target audiences and address unmet need
+
