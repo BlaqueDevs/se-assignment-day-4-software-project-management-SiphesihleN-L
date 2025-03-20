@@ -4,7 +4,6 @@
 ## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
 Dividing the project into meaningful milestones and setting realistic deadlines for each phase is crucial. This allows for continuous assessment of progress and helps avoid procrastination. Defining milestones provides a clear vision of the path to be travelled, making it easier to monitor and make decisions.
 
-
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 To prevent cost overruns, organizations can implement strategies such as conducting thorough risk assessments, establishing effective change management procedures, utilizing accurate project management techniques, and fostering open communication among project stakeholders.
 1. Thorough Project Planning
@@ -96,10 +95,12 @@ This means understanding what the problem is and what it is not. Start by gather
 
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 While a computer program is generally a set of instructions (source, or object code) that perform a specific task, a software system is more or an encompassing concept with many more components such as specification, test results, end-user documentation, maintenance records, etc.
+
 ## 11. What are the main features or functionalities that make your software stand out?
 Functionality, usability, efficiency, flexibility, reliability, maintainability, portability, and integrity are key characteristics that software engineers should consider throughout the development lifecycle.
+
 ## 12. What data is available regarding the market size and growth potential for your software?
 he global business software and services market size was estimated at USD 584.03 billion in 2024 and is projected to grow at a CAGR of 12.1% from 2025 to 2030. The market growth is driven by the increasing demand for automation in business processes.
+
 ## 13. How can understanding market trends inform your software’s positioning and development?
 Guiding product development and improvement: Market positioning requires a deep understanding of customer needs and market gaps. These insights can inform product development, helping startups create products or services that resonate with their target audiences and address unmet need
-
